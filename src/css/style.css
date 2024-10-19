@@ -5,6 +5,6 @@
 @import "_timeline-form.css";
 @import "_modal-coords.css";
 
-body { font-family: "Roboto", sans-serif; background-color: plum; }
+body { font-family: "Roboto", sans-serif; background-color: purple; }
 
 #app { display: flex; justify-content: center; align-items: center; height: 100vh; }
